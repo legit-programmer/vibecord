@@ -38,3 +38,7 @@ If the token is missing, the skill walks you through these steps on first run.
 - Your token stays in your environment. The skill never prints it or writes it to a file.
 - Claude asks before deleting things, kicking, banning, or making bulk changes.
 - REST API only: it can't keep the bot online or listen for live events.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
